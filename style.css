@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(1, 41, 24);
+    background-color: rgb(44, 148, 122);
 }
 
 #container{
@@ -13,5 +13,19 @@ body {
 
 img{
     width: 350px;
-    height: 300px;
+    height: 280px;
 }
+
+.button {
+    background-color: #db3c14; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+  }

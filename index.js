@@ -2,32 +2,42 @@ const image = document.querySelector('img');
 const button = document.querySelectorAll('button');
 const div = document.querySelector('div');
 const messiPic = [
-    "messi1.jfif",
-    "messi2.jfif",
-    "messi3.jfif",
-    "messi4.jpg"
-    
+    "m1.jpg",
+    "m2.jpg",
+    "m3.jpg",
+    "m4.jpg",
+    "m5.jpg",
+    "m6.jpg",
+    "m7.jpg",
+    "m8.jpg"
 ]
 const ronaldoPic =[
-    "ro1.jfif",
-    "ro2.jfif",
-    "ro3.jfif",
-    "ro3.jfif"
+    "r1.jfif",
+    "r2.jpg",
+    "r3.jpg",
+    "r4.jpg",
+    "r5.jpg"
+    
 ]
 
 const neymarPic = [
-    "ney1.jfif",
-    "ney2.jpg",
-    "ney3.jfif",
-    "ney4.jfif",
-    "ney5.jpg"
+    "n1.jpg",
+    "n2.jpg",
+    "n3.jpg",
+    "n4.jpg",
+    "n5.jpg",
+    "n6.jpg",
+    "n7.jpg",
+    "n8.jpg",
 ]
 const othersPic = [
     "hal02.jfif",
     "kimich.jfif",
     "ozi1.jpg",
     "vini03.jfif",
-    "rafinha.jfif"
+    "rafinha.jfif",
+    "anto.jfif",
+    "felix.jfif"
 ]
 
 function getMessi(){
